@@ -10,7 +10,7 @@ Mars Rover Programming is an advanced project focused on developing software to 
 ✅ **Optimized Algorithms** – Implementing A* and Dijkstra for efficient route planning  
 
 ## 🛠️ Tools & Technologies Used
-- **Python & C++** – Core programming languages for logic and control
+- **Java** – Core programming languages for logic and control
 - **ROS (Robot Operating System)** – Managing rover communication and behavior
 - **OpenCV** – Vision-based navigation and terrain analysis
 - **Gazebo & Unity** – Simulation environments for testing rover functionality
